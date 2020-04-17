@@ -14,7 +14,7 @@ font = cv2.FONT_HERSHEY_SIMPLEX
 id = 2 #two persons 
 
 
-names = ['','Soosai','Subash']  #key in names, start from the second place, leave first empty
+names = ['','Ala','Houssem']  #key in names, start from the second place, leave first empty
 
 # Initialize and start realtime video capture
 cam = cv2.VideoCapture(0)
